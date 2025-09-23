@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+🛠️ Tech Stack
+React Vite JavaScript HTML5 CSS3
+
+Node.js Express
+
+MySQL MongoDB SQL Server
+
+Git Jira Figma
