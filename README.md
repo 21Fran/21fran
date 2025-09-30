@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Fran</h1>
 <h3 align="center">A Software Developer born in Boston, Massachusetts</h3>
-<h3 align="center"> Orlando, Florida </h3>
+- Orlando, Florida - Cordoba, Argentina 
 
 - 🔭 I’m currently working on **SABIOGO**
 
