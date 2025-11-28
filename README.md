@@ -2,9 +2,7 @@
 <h3 align="center">A Software Developer born in Boston, Massachusetts</h3>
 - Orlando, Florida - Cordoba, Argentina 
 
-- 🔭 I’m currently working on **SABIOGO**
-
-- 📫 How to reach me **franciscodmarchena@gmail.com**
+- 🔭  ****
 
 
 <h3 align="left">Connect with me:</h3>
