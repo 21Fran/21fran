@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Fran</h1>
-<h3 align="center">A Software Developer born in Boston, Massachusetts</h3>
-- Orlando, Florida - Cordoba, Argentina 
+<h3 align="center">A Software Developer , .NET </h3>
+
 
 
 <h3 align="left">Connect with me:</h3>
