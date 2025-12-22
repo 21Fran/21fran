@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Fran</h1>
-<h3 align="center">A Software Developer , .NET </h3>
+<h3 align="center">Software Developer , .NET </h3>
 
 
 
